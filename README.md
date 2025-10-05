@@ -213,7 +213,7 @@ docker-compose exec web python manage.py createsuperuser
 This project demonstrates my capabilities in full-stack web development and production deployment. I'm passionate about creating robust, user-friendly web applications that solve real business problems.
 
 **Let's Connect**:
-- [LinkedIn]([https://linkedin.com/in/amirmokri](https://www.linkedin.com/in/amirali-mokri/))
+- [LinkedIn](https://www.linkedin.com/in/amirali-mokri/)
 - [Email](mailto:amirali.mokri@gmail.com)
 
 ---
